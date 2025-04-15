@@ -16,7 +16,7 @@ dmesg | tail
 
 sudo rmmod hello
 dmesg | tail
-
+```
 ## 📸 Demo
 
-![dmesg output](img/dmesg-output.png)
+![terminal output](img/hello-kernel-module.png)
